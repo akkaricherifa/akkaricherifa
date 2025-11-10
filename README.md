@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 À Propos
 
-- 🎓 Étudiante-ingénieure en 5ème année à l'**École ISIS Castres** - Spécialité Santé Numérique
+- 🎓 Étudiante-ingénieure en 5ème année à l'**Ecole ISIS Castres - France** - Spécialité Santé Numérique
 - 🏥 Spécialisée en **développement full-stack** et **intelligence artificielle appliquée au domaine médical**
 - 💼 Expérience en **solutions de santé connectée** et **outils d'aide à la décision clinique**
 - 🔬 Maîtrise de la **data science** et du **traitement de données médicales**
