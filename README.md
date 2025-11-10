@@ -1,45 +1,45 @@
-<h1 align="center">👋 Hi, I'm Chérifa Akkari</h1>
-<h3 align="center">🚀 Future Data Scientist & AI Enthusiast from Tunisia 🇹🇳</h3>
+<h1 align="center">👋 Bonjour, je suis Chérifa Akkari</h1>
+<h3 align="center">🚀 Étudiante-Ingénieure en Santé Numérique | Data Science & IA Appliquée au Médical 🇹🇳🇫🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Santé+Numérique+%7C+IA+Médicale;Full+Stack+Developer;Data+Science+%26+Machine+Learning;Toujours+en+apprentissage" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 À Propos
 
-- 🎓 Engineering student specializing in *Data Science* at Polytechnic School of Sousse
-- 🔬 Passionate about *Machine Learning, **Deep Learning, and **Predictive Analytics*
-- 💼 Experience in *Full Stack Development* and *Microservices Architecture*
-- 🌱 Currently exploring *Neural Networks, **Computer Vision, and **NLP*
-- 📊 Love turning data into actionable insights
-- 🎯 Building real-world solutions that make an impact
+- 🎓 Étudiante-ingénieure en 5ème année à l'**École ISIS Castres** - Spécialité Santé Numérique
+- 🏥 Spécialisée en **développement full-stack** et **intelligence artificielle appliquée au domaine médical**
+- 💼 Expérience en **solutions de santé connectée** et **outils d'aide à la décision clinique**
+- 🔬 Maîtrise de la **data science** et du **traitement de données médicales**
+- 🌱 Actuellement : Stage de développement BI et pilotage stratégique de projets
+- 🎯 Passionnée par les solutions technologiques qui améliorent les soins de santé
+- 🔍 À la recherche d'un **stage de fin d'études de 6 mois**
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamrouniraed07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamrouniraed07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkaricherifa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akkaricherifa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamrouniraed07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkaricherifa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack Technique
 
-#### 💻 Programming Languages
+#### 💻 Langages de Programmation
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
 </p>
@@ -47,35 +47,41 @@
 #### 🤖 Data Science & Machine Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-learn" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" title="Seaborn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" width="40" height="40" title="Keras" />
 </p>
 
-#### 🌐 Web Development
+#### 🌐 Frameworks Web
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter" />
 </p>
 
-#### 🗄 Databases
+#### 🗄 Bases de Données
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/influxdb.svg" width="40" height="40" title="InfluxDB" />
 </p>
 
-#### 🔧 DevOps & Tools
+#### 📊 Business Intelligence & Visualisation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" title="Power BI" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40" title="Plotly" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />
+</p>
+
+#### 🔧 Outils & DevOps
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
@@ -83,18 +89,63 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Projets Principaux
 
-<div align="center">
+#### 🏥 **SANTE VISTA** - Plateforme de Santé Personnalisée
+Plateforme développée en collaboration avec le Service de Réanimation de l'Hôpital Farhat Hached
+- Analyse prognostique intégrée avec Machine Learning et Deep Learning
+- Data Warehouse et visualisation Power BI
+- **Stack**: Spring Boot, Angular, ML/DL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=ML_Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/ML_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=Hotel_microservices&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/Hotel_microservices)
+#### 🩺 **Matching Patients-Médecins** - CPTS SUD TARN
+Application web pour zones rurales avec système d'association automatisée
+- Amélioration de l'accès aux soins en zones sous-dotées
+- **Stack**: Spring Boot, Angular, MongoDB
 
-</div>
+#### 📊 **Outil de Pilotage Stratégique BI**
+Outil de suivi de performance de portefeuilles de projets
+- Collecte, nettoyage, analyse et visualisation de données
+- **Stack**: Python, Django, Flask, MongoDB, Pandas, Plotly
+
+#### 💼 **Plateforme de Gestion des Formations** - ARSII
+Application de gestion des formations et compétences
+- **Stack**: Angular, Node.js, MongoDB, Figma
 
 ---
 
+### 🏆 Réalisations & Engagement
 
+- 🥇 **1ère place (Médaille d'or)** - Nuit de l'info, ISIS France 2024
+- 🏅 **Finaliste** - Tunisia IOT and AI Challenge à Dubai 2023
+- 👥 **Membre bureau** - Junior Entreprise Khépralia ISIS 2025
+- 👑 **Présidente** - Association de Recherche Scientifique et Innovation en Informatique (ISITCOM) 2021-2024
+- 🎯 **Vice-Présidente** - Bureau des Étudiants BDE ISITCOM 2022-2024
+- 🚀 **Team Leader & Organisatrice** - AI Night Challenge, ARSII 2023
 
+---
 
+### 🌍 Langues
 
+- 🇹🇳 **Arabe** : Langue maternelle
+- 🇫🇷 **Français** : Courant
+- 🇬🇧 **Anglais** : Intermédiaire - TOEIC 2025
+
+---
+
+### 📫 Contact
+
+<p align="left">
+  <a href="mailto:cherifa.akkari@etud.univ-jfc.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/cherifa-akkari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/akkaricherifa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akkaricherifa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  💡 <i>"Transforming healthcare through technology and data science"</i>
+</p>
