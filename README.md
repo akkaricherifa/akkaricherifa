@@ -87,50 +87,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
 </p>
 
----
-
-### 🔥 Projets Principaux
-
-#### 🏥 **SANTE VISTA** - Plateforme de Santé Personnalisée
-Plateforme développée en collaboration avec le Service de Réanimation de l'Hôpital Farhat Hached
-- Analyse prognostique intégrée avec Machine Learning et Deep Learning
-- Data Warehouse et visualisation Power BI
-- **Stack**: Spring Boot, Angular, ML/DL
-
-#### 🩺 **Matching Patients-Médecins** - CPTS SUD TARN
-Application web pour zones rurales avec système d'association automatisée
-- Amélioration de l'accès aux soins en zones sous-dotées
-- **Stack**: Spring Boot, Angular, MongoDB
-
-#### 📊 **Outil de Pilotage Stratégique BI**
-Outil de suivi de performance de portefeuilles de projets
-- Collecte, nettoyage, analyse et visualisation de données
-- **Stack**: Python, Django, Flask, MongoDB, Pandas, Plotly
-
-#### 💼 **Plateforme de Gestion des Formations** - ARSII
-Application de gestion des formations et compétences
-- **Stack**: Angular, Node.js, MongoDB, Figma
-
----
-
-### 🏆 Réalisations & Engagement
-
-- 🥇 **1ère place (Médaille d'or)** - Nuit de l'info, ISIS France 2024
-- 🏅 **Finaliste** - Tunisia IOT and AI Challenge à Dubai 2023
-- 👥 **Membre bureau** - Junior Entreprise Khépralia ISIS 2025
-- 👑 **Présidente** - Association de Recherche Scientifique et Innovation en Informatique (ISITCOM) 2021-2024
-- 🎯 **Vice-Présidente** - Bureau des Étudiants BDE ISITCOM 2022-2024
-- 🚀 **Team Leader & Organisatrice** - AI Night Challenge, ARSII 2023
-
----
-
-### 🌍 Langues
-
-- 🇹🇳 **Arabe** : Langue maternelle
-- 🇫🇷 **Français** : Courant
-- 🇬🇧 **Anglais** : Intermédiaire - TOEIC 2025
-
----
 
 ### 📫 Contact
 
