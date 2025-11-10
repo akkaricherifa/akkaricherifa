@@ -94,48 +94,7 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrouniraed07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
 
----
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamrouniraed07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:Hamrouniraed50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raed-med-amin-hamrouni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/hamrouniraed07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamrouniraed07&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<p align="center">
-  <i>⚡ "Data is the new oil, but insights are the refined fuel that drives innovation" ⚡</i>
-</p>
