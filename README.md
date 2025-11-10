@@ -1,10 +1,5 @@
 <h1 align="center">👋 Bonjour, je suis Chérifa Akkari</h1>
 <h3 align="center">🚀 Étudiante-Ingénieure en Santé Numérique | Data Science & IA Appliquée au Médical 🇹🇳🇫🇷</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Santé+Numérique+%7C+IA+Médicale;Full+Stack+Developer;Data+Science+%26+Machine+Learning;Toujours+en+apprentissage" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 À Propos
